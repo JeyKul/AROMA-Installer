@@ -78,7 +78,7 @@
 /*
   //-- MOVE TO Android.mk
   #define AROMA_NAME        "AROMA INSTALLER"
-  #define AROMA_VERSION     "2.70B6"
+  #define AROMA_VERSION     "3"
   #define AROMA_BUILD       "130624-042B"
   #define AROMA_BUILD_CN    "Flamboyan-Beta"
 */

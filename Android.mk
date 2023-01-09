@@ -18,7 +18,7 @@ include $(CLEAR_VARS)
   ## VERSIONING
   ##
   AROMA_NAME    := AROMA Installer
-  AROMA_VERSION := 2.70RC2
+  AROMA_VERSION := 3.0
   AROMA_BUILD   := $(shell date +%y%m%d%H)
   AROMA_CN      := Flamboyan
 
